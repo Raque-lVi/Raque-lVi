@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  @Raque-lVi
-- 👀 I’m interested in  programação
-- 🌱 I’m currently learning  programação em java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested futuros em java, javaScript, Html e css
+- 🌱 I’m currently focando na  programação em java
+- 💞️ I’ looking to collaborate on  em projetos simples na linguagem em java 
 - 📫  Meu Gmail é vivianraquelbatista@gmail.com
 
 <!---
