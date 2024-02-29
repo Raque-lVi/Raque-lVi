@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  @Raque-lVi
-- 👀 I’m interested futuros em java, javaScript, Html e css
-- 🌱 I’m currently focando na  programação em java
-- 💞️ I’ looking to collaborate on  em projetos simples na linguagem em java 
+- 👀 I’m interested futuros em java, javaScript, Html e css, c++, python
+- 🌱 I’m currently focando na  programação em javaScript e c++
+- 💞️ I’ looking to collaborate on  em projetos simples na linguagem em java, javaScript...
 - 📫  Meu Gmail é vivianraquelbatista@gmail.com
 
 <!---
